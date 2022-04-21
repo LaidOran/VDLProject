@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-21T13:19:25 EDT" name="Default Suite" finished-at="2022-04-21T13:19:34 EDT" duration-ms="9514">
+    <groups>
+    </groups>
+    <test started-at="2022-04-21T13:19:25 EDT" name="VDLProject" finished-at="2022-04-21T13:19:34 EDT" duration-ms="9514">
+      <class name="LandingPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LandingPageTest@1d8bd0de]" started-at="2022-04-21T13:19:25 EDT" name="setUp" finished-at="2022-04-21T13:19:32 EDT" duration-ms="6838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLandingPageTitle()[pri:1, instance:LandingPageTest@1d8bd0de]" started-at="2022-04-21T13:19:32 EDT" name="validateLandingPageTitle" description="Valider le titre - landingPage" finished-at="2022-04-21T13:19:32 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLandingPageTitle -->
+        <test-method signature="validatecrmLogoTest()[pri:2, instance:LandingPageTest@1d8bd0de]" started-at="2022-04-21T13:19:32 EDT" name="validatecrmLogoTest" description="Valider le logo- landingPage" finished-at="2022-04-21T13:19:32 EDT" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatecrmLogoTest -->
+        <test-method signature="loginTest()[pri:3, instance:LandingPageTest@1d8bd0de]" started-at="2022-04-21T13:19:32 EDT" name="loginTest" description="Cliquer sur login" finished-at="2022-04-21T13:19:34 EDT" duration-ms="1961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LandingPageTest@1d8bd0de]" started-at="2022-04-21T13:19:34 EDT" name="tearDown" finished-at="2022-04-21T13:19:34 EDT" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LandingPageTest -->
+    </test> <!-- VDLProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
